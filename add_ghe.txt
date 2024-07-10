@@ -1,1 +1,2 @@
 print ("chuc nang them ghe");
+print ("cong minh them footer ghe");
